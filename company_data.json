@@ -1,0 +1,215 @@
+{
+  "company_overview": {
+    "name": "Consulting Form",
+    "industry": "IT Consulting, Innovation Services & IT Education",
+    "founded": 2023,
+    "headquarters": "Austin, Texas, United States",
+    "website": "www.consultingform.com",
+    "mission": "To empower businesses with technology strategy and equip early-career professionals with industry-ready IT skills through practical training and mentorship.",
+    "vision": "To enable digital transformation for organizations of all sizes and bridge the IT skills gap through practical, innovative, and learner-focused experiences."
+  },
+  "service_categories": [
+    {
+      "name": "IT Consulting & Advisory Services",
+      "objective": "Help businesses transform and optimize their technology capabilities.",
+      "core_offerings": [
+        {
+          "service": "IT Strategy & Digital Transformation",
+          "details": [
+            "Technology roadmap planning",
+            "Digital maturity assessments",
+            "Emerging tech adoption (cloud, AI/ML, automation)"
+          ]
+        },
+        {
+          "service": "Enterprise Architecture & System Design",
+          "details": [
+            "Infrastructure assessments",
+            "Cloud migration planning",
+            "Integration with existing workflows"
+          ]
+        },
+        {
+          "service": "Cybersecurity & Risk Management",
+          "details": [
+            "Security posture evaluation",
+            "Policy and compliance advisory",
+            "Incident response planning"
+          ]
+        },
+        {
+          "service": "Managed IT Services (Optional)",
+          "details": [
+            "Ongoing remote monitoring",
+            "Helpdesk support",
+            "System upgrades and automation"
+          ]
+        }
+      ],
+      "notes": "Typical industry rates for IT consulting professionals range broadly but generally sit around $100–$250/hour in the U.S."
+    },
+    {
+      "name": "Innovation & Business Enablement Consulting",
+      "objective": "Provide strategic guidance for product innovation, process improvements, and new tech adoption.",
+      "core_services": [
+        "Innovation Strategy Workshops",
+        "Tech Feasibility & Prototyping Support",
+        "Competitive Tech Landscape Analysis",
+        "Design Thinking & Solution Brainstorming",
+        "Proof-of-Concept & MVP Support"
+      ],
+      "deliverables": [
+        "Innovation roadmaps",
+        "Feasibility reports",
+        "Design prototypes",
+        "Prioritization matrices to support growth initiatives"
+      ]
+    },
+    {
+      "name": "IT Education & Training Programs",
+      "objective": "Deliver skill-focused IT education tailored for job preparation and practical mastery.",
+      "programs": [
+        {
+          "title": "IT Foundations Bootcamp",
+          "audience": "Beginners / Aspirants",
+          "duration": "8 weeks (Live + Self-paced)",
+          "modules": [
+            "Computer fundamentals & Networking basics",
+            "Intro to databases",
+            "Linux / Windows administration"
+          ],
+          "format": "Online interactive sessions, weekly projects, final capstone",
+          "outcome": "Strong foundation and hands-on labs"
+        },
+        {
+          "title": "Full Stack Developer Track",
+          "audience": "Beginners to Intermediate",
+          "duration": "12 weeks intensive",
+          "modules": [
+            "Front-end: HTML/CSS, JavaScript",
+            "Back-end: Node.js / Python",
+            "Databases & API design"
+          ],
+          "capstone": "Full project portfolio"
+        },
+        {
+          "title": "DevOps & Cloud Engineering",
+          "audience": "Intermediate learners",
+          "duration": "10 weeks",
+          "focus_areas": [
+            "CI/CD pipelines, Docker, Kubernetes",
+            "AWS & Azure fundamentals",
+            "Infrastructure as Code"
+          ],
+          "hands_on": "Real world tool chains and lab exercises"
+        },
+        {
+          "title": "Cybersecurity Practitioner Course",
+          "audience": "All levels",
+          "duration": "10 weeks",
+          "key_topics": [
+            "Network security principles",
+            "Ethical hacking basics",
+            "Security tools labs"
+          ],
+          "outcome": "Certifications-aligned skill sets"
+        }
+      ],
+      "delivery_formats": [
+        "Live instructor-led online classes",
+        "Self-paced learning modules",
+        "On-site corporate workshops (optional)",
+        "Weekly mentorship hours"
+      ]
+    }
+  ],
+  "pricing_and_duration": {
+    "it_consulting_fees": [
+      {
+        "service_type": "Initial IT Assessment",
+        "duration": "1–2 weeks",
+        "fee": "$2,000 – $5,000"
+      },
+      {
+        "service_type": "Strategy & Digital Roadmap",
+        "duration": "4–8 weeks",
+        "fee": "$10,000 – $30,000"
+      },
+      {
+        "service_type": "Architecture Design/Cloud Planning",
+        "duration": "6–12 weeks",
+        "fee": "$20,000 – $50,000+"
+      },
+      {
+        "service_type": "Hourly Advisory",
+        "duration": "–",
+        "fee": "$120 – $250 / hr"
+      }
+    ],
+    "training_programs_fees": [
+      {
+        "program": "IT Foundations Bootcamp",
+        "duration": "8 weeks",
+        "fee_per_participant": "$900 – $1,500"
+      },
+      {
+        "program": "Full Stack Track",
+        "duration": "12 weeks",
+        "fee_per_participant": "$1,800 – $3,000"
+      },
+      {
+        "program": "Cloud & DevOps",
+        "duration": "10 weeks",
+        "fee_per_participant": "$1,500 – $2,800"
+      },
+      {
+        "program": "Cybersecurity Track",
+        "duration": "10 weeks",
+        "fee_per_participant": "$1,500 – $2,800"
+      }
+    ],
+    "notes": [
+      "Discounts available for corporate groups or early-bird enrollments",
+      "Payment plans available (monthly or upfront)",
+      "Cohort-based instruction includes mentoring and project reviews"
+    ]
+  },
+  "target_audiences": [
+    {
+      "segment": "Individuals & Students",
+      "key_benefits": "Career advancement, practical skills"
+    },
+    {
+      "segment": "Small/Medium Businesses",
+      "key_benefits": "Tech strategy and implementation support"
+    },
+    {
+      "segment": "Enterprises",
+      "key_benefits": "Digital transformation, innovation roadmaps"
+    },
+    {
+      "segment": "Corporate Training Teams",
+      "key_benefits": "Customized in-house training"
+    }
+  ],
+  "deliverables_and_outcomes": {
+    "consulting": [
+      "Detailed strategy playbooks",
+      "Security & compliance gap analysis",
+      "Architecture blueprints",
+      "Implementation guidance & roadmaps"
+    ],
+    "training": [
+      "Personalized learning reports",
+      "Project portfolios",
+      "Practical labs and simulations",
+      "Completion certificates"
+    ]
+  },
+  "competitive_advantage": [
+    "Integrated Learning + Consulting Approach: Combines strategic IT advisory with talent development",
+    "Hands-On Skill Development: Courses include real tool labs, not just lectures",
+    "Custom Innovation Workshops: Helps organizations ideate and prototype on strategy",
+    "Flexible Formats: Online, hybrid, and in-house delivery"
+  ]
+}
